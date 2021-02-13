@@ -1,45 +1,67 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+<h1 style="text-align: center;">Re-Tie Dye Website</h1>
+<a href="#">View the live project here.</a>
 
-Welcome USER_NAME,
+This is the main shop front for the organisation Re-Tie Dye. It is designed to be responsive and accessible on a range of devices, making it easy to navigate and meet the business key goals. 
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+Include image of my site from <a href="http://ami.responsivedesign.is/">Responsive Web Design is..</a> below.
 
-## Gitpod Reminders
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+# Client Requirements
+* We need a platform that illustrates and shares our key values.
+* We need a platform that depecits and captures the brands ethos.
+* We need a platform that makes those visitng it empowered and confident to use.
+* We need a platfrom that is a safe and none toxic enviroment to enhabit.  
+* We need a platform that encourages users to return time and time again. 
 
-`python3 -m http.server`
+# User Experience (UX)
 
-A blue button should appear to click: *Make Public*,
+* ## User Stories
 
-Another blue button should appear to click: *Open Browser*.
+    * ### First Time Vistor Goals
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+        1. As a First Time Vistor, I want to easily understand the main purpose of the site, and learn more about the organizations founding values. 
+        1. As a First Time Vistor, I want to be able to easily navigate throughout the site to find key content. 
+        1. As a First Time Vistor, I want to clearly find out what makes this organization different from its competitors. 
+        1. As a First Time Vistor, I want to find out how to user the site as efficently as possible
+        1. As a First Time Vistor, I want to source information that validates the organzations legitimacy, most efficent way to do this is  through there social media.  
 
-A blue button should appear to click: *Make Public*,
+    * ### Returning Vistor Goals
 
-Another blue button should appear to click: *Open Browser*.
+        1. As a Returning Vistor, I want to be able to navigate to the store quickly. 
+        1. As a Returning Vistor, I want to be notified on when new auctions going live and when.
+        1. As a Returning Vistor, I want to be able to place a bid on an item quickly. 
+        1. As a Returning Vistor, I want to be able to see if any changes to the "How It Works" section has been changed.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+    * ### Frequent User Goals
 
-## Updates Since The Instructional Video
+        1. As a Frequent User, I want to check to see fi tehre are any newly added items in the store. 
+        1. As a Frequent User, I want to see if any new auctions are going live soon. 
+        1. As a Frequent User, I want the platform to recognize I have visted and used before. 
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+* ## Design 
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+    * ### Color Scheme  
+        * Main color scheme sourced with the help of a website called <a href="https://coolors.co/">coolors</a>. 
+        Hex numbers of each colour used included below: 
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+            * #ffadad
+            * #ffd6a5
+            * #fdffb6
+            * #caffbf
+            * #9bf6ff
+            * #a0c4ff
+            * #bdb2ff
+            * #ffc6ff
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+     
+    * ### Typography 
+        * Kavoon is the font chosen for use across the website site , with Sans Serif as the back up font in case 
+        there are any issues importing into the site correctly. Kavoon shares the same connotations as the brand image of the
+        organisation, so it meets the clients requirements. 
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+            
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+    
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
 
---------
-
-Happy coding!
