@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Kavoon&family=Roboto:wght@300;400;500;700;900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;;
+}
+
+
+/* Heading Formatting*/
+
+article{
+   text-align: right;
+   margin: auto;
+}
+
+.logo-heading{
+    font-family: 'Kavoon', 'Roboto', sans-serif;
+    
+}
+.tagline-heading{
+    font-family: 'Kavoon', 'Roboto', sans-serif;
+}
+
+.header-outter{
+    /*background-color: pink;*/
+}
+
+.header-inner{
+    /*background-color: red;*/
+}
+
+.logo-box{
+background-color: blue;
+}
+
+.logo-tag-box{
+background-color: red;
+}
+
+/* Navigation*/
+
+
+/* Image Formatting*/
+.re-tie-dye-logo{
+    /*float: right;*/
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    /*height: 300px;*/
+}
+
+/*Colors*/
