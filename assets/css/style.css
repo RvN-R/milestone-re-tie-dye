@@ -93,7 +93,19 @@ padding: 0;
     text-align: center;
 
 }
-.howitworksbtn{
+
+/* How it works Button*/
+
+.howitworksbtnoutter{
+  margin: 20px 0;
+  padding: 10px;
+}
+
+.howitworksbtninner {
+  margin: 0 auto;
+  width: 200px;
+  padding: 20px;
+  color: white;
 }
 
 /* Footer*/
@@ -153,3 +165,4 @@ min-height: 360px;
 .li-menu-color-faq{
     background-color:#caffbf;
 } 
+
