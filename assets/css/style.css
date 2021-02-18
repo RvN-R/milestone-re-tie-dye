@@ -8,23 +8,28 @@
 
 /* Heading Formatting*/
 
-.logo-heading{
+/* .logo-heading{
     font-family: 'Kavoon', 'Roboto', sans-serif;
     font-size: 46px;
+    color: #fafafa;
     
-}
-.tagline-heading{
-    font-family: 'Kavoon', 'Roboto', sans-serif;
-}
+} */
 
-.logo-tag-box{
-background-color: red;
+.tagline-heading{
+    font-family: 'Roboto', sans-serif;
+    color: #fafafa;
 }
 
 .heading{
     text-align: right;
     margin-right: 50px;
-    margin-top: 25px;
+    margin-top: 300px;
+}
+
+.header-background-image{
+    background-image: url(../images/index-images/sharon-mccutcheon-7EK5WABscqw-unsplash.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 
@@ -70,7 +75,6 @@ padding: 0;
 /* Image Formatting*/
 
 .logo-link{
-background-color: aqua;
 background-position: center;
 background-repeat: no-repeat;
 background-size: cover;
