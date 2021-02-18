@@ -92,5 +92,6 @@ Include image of my site from <a href="http://ami.responsivedesign.is/">Responsi
 Notes on issues i got passed: 
 * couldn't get Re-Tie Dye logo to fit properly when the page went from large to small. Got around this by setting the setting display to block, margin left and right to auto and then exprimented with the width percentage until I found an option that worked. 
 * had unwanted white gaps in my navigation li elements, used the inspector tool and discoverd the bootstrap item "list-inline-item" sets a margin automatically. In my style.css I set that class to 0 margin. Also created my own class in the Ul called menucontainer and set the font size to 0. This sorted out the issue but now the font in my li was 0, so using an id called nav I targeted the li's within that id and set there font size so I could see my navigation headings. Saved images depiciting this. 
+* used https://css-tricks.com/centering-css-complete-guide/ to figure out how to center a button "Click me to get Bidding!"
 
 
