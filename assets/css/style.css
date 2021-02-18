@@ -93,9 +93,16 @@ padding: 0;
     text-align: center;
 
 }
-
 .howitworksbtn{
 }
+
+/* Footer*/
+
+/* .footer.background-image{
+    background-image: url(../images/index-images/sharon-mccutcheon-7EK5WABscqw-unsplash.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+} */
 
 /* Image Formatting*/
 
@@ -130,4 +137,4 @@ min-height: 360px;
 
 .li-menu-color-faq{
     background-color:#caffbf;
-}
+} 
