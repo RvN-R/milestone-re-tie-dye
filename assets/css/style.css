@@ -8,13 +8,9 @@
 
 /* Heading Formatting*/
 
-article{
-   text-align: right;
-   margin: auto;
-}
-
 .logo-heading{
     font-family: 'Kavoon', 'Roboto', sans-serif;
+    font-size: 46px;
     
 }
 .tagline-heading{
@@ -28,18 +24,53 @@ background-color: red;
 .heading{
     text-align: right;
     margin-right: 50px;
-    margin-top: 30px;
+    margin-top: 25px;
 }
 
 
 /* Navigation*/
 
+.list-inline-item:not(:last-child){
+    margin: 0;
+}
+
+.menucontainer{
+    font-size: 0;
+}
+
+#nav li{
+font-size: 14px;
+padding: 0;
+
+}
+
+.menuitem{
+height: 120px;
+padding: 0;
+}
+
+.menuitem a{
+    width: 100%;
+    text-decoration: none;
+    color: #868686;
+    height: 120px;
+}
+
+.menuitem span{
+    display: block;
+    width: 100%;
+    padding-top: 45px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif ;
+    font-size: 14px;
+    font-weight: 400;
+}
 
 /* Image Formatting*/
 
 .logo-link{
 background-color: aqua;
-/* background: url(../images/index-images/re-tie-dye-logo-recycle-webuse.png); */
 background-position: center;
 background-repeat: no-repeat;
 background-size: cover;
@@ -54,3 +85,20 @@ min-height: 360px;
 }
 
 /*Colors*/
+
+.li-menu-color-home{
+    background-color: #ffadad;
+}
+
+.li-menu-color-about-us{
+    background-color: #ffd6a5;
+
+}
+
+.li-menu-color-shop{
+    background-color: #fdffb6;
+}
+
+.li-menu-color-faq{
+    background-color:#caffbf;
+}
