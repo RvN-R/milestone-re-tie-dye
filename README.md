@@ -86,7 +86,8 @@ Include image of my site from <a href="http://ami.responsivedesign.is/">Responsi
             
 
 
-    
+* ## Images
+    * Tie Dye back ground image for header https://unsplash.com/photos/7EK5WABscqw
 
 Notes on issues i got passed: 
 * couldn't get Re-Tie Dye logo to fit properly when the page went from large to small. Got around this by setting the setting display to block, margin left and right to auto and then exprimented with the width percentage until I found an option that worked. 
