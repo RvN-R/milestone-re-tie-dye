@@ -21,33 +21,36 @@ article{
     font-family: 'Kavoon', 'Roboto', sans-serif;
 }
 
-.header-outter{
-    /*background-color: pink;*/
-}
-
-.header-inner{
-    /*background-color: red;*/
-}
-
-.logo-box{
-background-color: blue;
-}
-
 .logo-tag-box{
 background-color: red;
 }
+
+.heading{
+    text-align: right;
+    margin-right: 50px;
+    margin-top: 30px;
+}
+
 
 /* Navigation*/
 
 
 /* Image Formatting*/
-.re-tie-dye-logo{
-    /*float: right;*/
+
+.logo-link{
+background-color: aqua;
+/* background: url(../images/index-images/re-tie-dye-logo-recycle-webuse.png); */
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+min-height: 360px;
+}
+
+.re-tie-dye-logo{ 
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 80%;
-    /*height: 300px;*/
 }
 
 /*Colors*/
