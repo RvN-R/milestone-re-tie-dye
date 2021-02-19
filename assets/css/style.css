@@ -55,32 +55,55 @@ padding: 0;
 }
 
 .menuitem{
-height: 120px;
+height: 60px;
 padding: 0;
 }
 
 .menuitem a{
     width: 100%;
     text-decoration: none;
-    color: #868686;
-    height: 120px;
+    color: #fafafa;
+    height: 60px;
 }
 
 .menuitem span{
-    display: block;
+    display: inline-flexbox;
     width: 100%;
-    padding-top: 45px;
+    padding-top: 20px;
     text-align: center;
     text-transform: uppercase;
     font-family: 'Roboto', sans-serif ;
-    font-size: 14px;
-    font-weight: 400;
+    font-size: 15px;
+    font-weight: 500;
+    
 }
+
+
+/* Test Navigation CSS*/
+
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  font-family: "Roboto", sans-serif;
+}
+
 
 /* How it works*/
 
 .howitworkscontainertitle{
     text-align: center;
+    padding-top: 15px;
 }
 
 #howitworks{
@@ -161,19 +184,52 @@ min-height: 360px;
 /*Colors*/
 
 .li-menu-color-home{
-    background-color: #ffadad;
+    background-color: #fc66ca;
 }
 
 .li-menu-color-about-us{
-    background-color: #ffd6a5;
+    background-color: #fcb9fc;
 
 }
 
 .li-menu-color-shop{
-    background-color: #fdffb6;
+    background-color: #cfb0f3;
 }
 
 .li-menu-color-faq{
-    background-color:#caffbf;
+    background-color:#8ab0ef;
 } 
+
+/*hoover*/
+
+/* Change the color of navigation links on hover */
+
+.home-hover-color:hover {
+    background-color: #fc66ca;
+    color: black;
+    }
+
+.aboutus-hover-color:hover {
+    background-color: #fcb9fc;
+    color: black;
+    
+}
+
+.shop-hover-color:hover {
+    background-color: #cfb0f3;
+    color: black;
+   
+}
+
+.faq-hover-color:hover {
+    background-color: #8ab0ef;
+    color: black;
+    
+}
+
+/* Add a color to the active/current link */
+.topnav a.home-active {
+  background-color: #fc66ca;
+  color: white;
+}
 
