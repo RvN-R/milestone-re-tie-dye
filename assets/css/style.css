@@ -233,3 +233,8 @@ min-height: 360px;
   color: white;
 }
 
+/*Media Queries*/
+
+@media screen and (max-width: 767px) {
+    .logo-tag-box {display:none;}
+}
