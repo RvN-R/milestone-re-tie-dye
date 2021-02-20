@@ -143,24 +143,9 @@ min-height: 360px;
 
 /*Colors*/
 
-.li-menu-color-home{
-    background-color: #fc66ca;
-}
 
-.li-menu-color-about-us{
-    background-color: #fcb9fc;
 
-}
-
-.li-menu-color-shop{
-    background-color: #cfb0f3;
-}
-
-.li-menu-color-faq{
-    background-color:#8ab0ef;
-} 
-
-/*hoover*/
+/*Hoover*/
 
 /* Change the color of navigation links on hover */
 
@@ -191,6 +176,19 @@ min-height: 360px;
 .topnav a.home-active {
   background-color: #fc66ca;
   color: white;
+}
+
+/* Hoover icons */
+.fa-instagram:hover{
+    text-shadow: 2px 2px #8ab0ef;
+}
+
+.fa-twitter:hover{
+    text-shadow: 2px 2px #8ab0ef;
+}
+
+.fa-facebook-square:hover{
+    text-shadow: 2px 2px #8ab0ef;
 }
 
 /*Media Queries*/
