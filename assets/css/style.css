@@ -63,24 +63,34 @@
 
 .howitworkscontainertitle{
     text-align: center;
-    padding-top: 15px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 5px;
+    font-weight: 300;
+    padding-top: 8px;
+    /* padding-top: 15px; */
 }
 
 #howitworks{
-    /* list-style-type: none; */
-    padding: 20px;
-    border: black;
-    border-style: solid;
-    border-width: 2px;
-    border-radius: 10px;
-    display: inline-flexbox;
-    /*padding: 0; */
+   list-style-type: none;
+   font-family: 'Roboto', sans-serif;
+    
 }
 
 #howitworks li{
-    text-align: center;
+    /* text-align: center; */
 
 }
+
+.howitworkscentcol p{
+    margin: 0;
+    padding-top: 10px;
+}
+
+.howitworkscentcol{
+    /* background-color: green; */
+    min-height: 200px;
+}
+
 
 /* How it works Button*/
 
@@ -94,6 +104,10 @@
   width: 200px;
   padding: 20px;
   color: white;
+}
+
+.btn-primary{
+    background-image: url(../images/index-images/footerbackgroundimage.jpg);
 }
 
 /* Footer*/
