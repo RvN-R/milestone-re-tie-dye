@@ -189,20 +189,27 @@ min-height: 360px;
 /* Add a color to the active/current link */
 .topnav a.home-active {
   background-color: #fc66ca;
-  color: white;
+  color: #fafafa;
+  text-shadow: 1px 1px grey;
+}
+
+.topnav a.aboutus-active{
+    background-color: #fcb9fc;
+  color: #fafafa;
+  text-shadow: 1px 1px grey;
 }
 
 /* Hoover icons */
 .fa-instagram:hover{
-    text-shadow: 2px 2px #8ab0ef;
+    text-shadow: 2px 2px grey;
 }
 
 .fa-twitter:hover{
-    text-shadow: 2px 2px #8ab0ef;
+    text-shadow: 2px 2px grey;
 }
 
 .fa-facebook-square:hover{
-    text-shadow: 2px 2px #8ab0ef;
+    text-shadow: 2px 2px grey;
 }
 
 /*Media Queries*/
