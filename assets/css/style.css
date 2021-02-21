@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Kavoon&family=Roboto:wght@300;400;500;700;900&display=swap');
+
+/* General CSS used throught website */
+
 *{
     margin: 0;
     padding: 0;
@@ -9,6 +12,8 @@
     padding-right: 0;
     padding-left: 0;
 }
+
+
 
 
 /* Heading Formatting*/
@@ -109,6 +114,27 @@
 .btn-primary{
     background-image: url(../images/index-images/footerbackgroundimage.jpg);
 }
+
+/* About Us*/
+
+.au-first-tb{
+text-align: center;
+background-color: red;
+}
+.au-first-hero{
+text-align: center;
+background-color: blue
+}
+.au-second-tb{
+text-align: center;
+background-color: green;
+}
+.au-second-hero{
+text-align: center;
+background-color: yellow;
+}
+
+
 
 /* Footer*/
 
