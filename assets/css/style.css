@@ -125,17 +125,17 @@
 
 .au-first-tb{
 text-align: center;
-background-color: red;
+
 }
 .au-first-hero{
-background-color: blue
+
 }
 .au-second-tb{
 text-align: center;
-background-color: green;
+
 }
 .au-second-hero{
-background-color: yellow;
+
 }
 
 .au-third-tb{
@@ -161,7 +161,6 @@ background-color: yellow;
 display: block;
 margin-left: auto;
 margin-right: auto;
-max-height: 500px;
 width: 50%;
 
 }

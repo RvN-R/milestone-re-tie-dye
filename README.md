@@ -93,6 +93,8 @@ Include image of my site from <a href="http://ami.responsivedesign.is/">Responsi
     * Image of growing tree - https://unsplash.com/@noahbuscher
     * Image of Solor Panel - https://unsplash.com/@publicpowerorg
     * Image of Landfill Forest - https://www.pexels.com/@stijn-dijkstra-1306815 
+    * images of spices https://www.pexels.com/@karolina-grabowska
+    * image of deforestation https://www.pexels.com/@oandremoura
 
 Notes on issues i got passed: 
 * couldn't get Re-Tie Dye logo to fit properly when the page went from large to small. Got around this by setting the setting display to block, margin left and right to auto and then exprimented with the width percentage until I found an option that worked. 
@@ -102,8 +104,7 @@ Notes on issues i got passed:
 * struggling to get the social icons to center. tried using combination of row justify-content-center with a single col-12 but it wouldn't center. Quick fix I used three col 4, copied the social icons into the 2nd col 4, then created a class called social-align to text align the icons. I left the 1st and 3rd col 4 blank and got the end effect. This isn't a perfect fix and I would like to find another solution. have images.
 * wasn't happy with my navigation so used https://www.w3schools.com/howto/howto_js_topnav.asp as insperation for new navigation. taken screen shots. 
 * header was looking good on desktop screens, but got overly large screen sizes below 767px, used media queries to display none the second col containing websites tagline. taken screen shots.
-* images of spices https://www.pexels.com/@karolina-grabowska
-*image of deforestation https://www.pexels.com/@oandremoura
+* The text in the paragraphs of on the About Us page were looking good but they lined up with the top of the images, I needed the text to align with the center of the cols. To do this I used bootstrap align-self-center. 
 
 
 
