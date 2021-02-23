@@ -135,7 +135,6 @@ text-align: center;
 
 }
 
-
 .au-third-tb{
     text-align: center;
 }
@@ -209,6 +208,31 @@ opacity: 0.8;
     margin-right: auto;
     width: 50%;
     opacity: 0.8;
+}
+
+/*FAQ Accordion*/
+.faq-btn-question{ 
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    display: block;
+}
+
+.faq-card-answer{
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+    display: block;
+}
+
+/*FAQ Experimentation*/
+ 
+.faq-first-col{
+background-color: blue;
+}
+
+.faq-second-col{
+    background-color: red;
 }
 
 /* Footer*/
