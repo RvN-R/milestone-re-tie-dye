@@ -95,6 +95,7 @@ Include image of my site from <a href="http://ami.responsivedesign.is/">Responsi
     * Image of Landfill Forest - https://www.pexels.com/@stijn-dijkstra-1306815 
     * images of spices https://www.pexels.com/@karolina-grabowska
     * image of deforestation https://www.pexels.com/@oandremoura
+    *image of a model wearing tie dye: https://www.pexels.com/@cameron-yartz-2341223
 
 Notes on issues i got passed: 
 * couldn't get Re-Tie Dye logo to fit properly when the page went from large to small. Got around this by setting the setting display to block, margin left and right to auto and then exprimented with the width percentage until I found an option that worked. 
