@@ -107,6 +107,7 @@ Notes on issues i got passed:
 * header was looking good on desktop screens, but got overly large screen sizes below 767px, used media queries to display none the second col containing websites tagline. taken screen shots.
 * The text in the paragraphs of on the About Us page were looking good but they lined up with the top of the images, I needed the text to align with the center of the cols. To do this I used bootstrap align-self-center. 
 * Un order list on index wouldn't center, used d flex and justify content center to try and center it. But due to the differing lengths of the bullet points it still didn't look centered. So I changed the background of the col to create a box, which is centered and that seems to have improved the overall look of the un ordered list on large screens. 
+* order of the hero images and paragraphs on the about me page looked good for mobile devices, but the order didn't work in larger screen sizes. I used bootstrap order to change the order between one hero and one paragraph in small breakpoints and above. This now makes the about me page layout work for both mobile and larger devices. 
 
 
 
