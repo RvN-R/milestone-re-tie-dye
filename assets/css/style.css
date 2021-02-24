@@ -131,27 +131,42 @@ mark{
     padding-top: 10px;
 }
 
-.au-first-tb{
-text-align: center;
 
-}
-.au-first-hero{
-
-}
-.au-second-tb{
-text-align: center;
-
-}
-
-.au-third-tb{
+#au-first-tb{
+    padding: 25px;
     text-align: center;
 }
 
+#au-second-tb{
+    padding: 25px;
+    text-align: center;
+}
+
+#au-third-tb{
+    padding: 25px;
+    text-align: center;
+    
+}
+
+.au-first-hero{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.au-second-hero{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.au-third-hero{
+    padding-top: 15px;
+    padding-bottom: 30px;
+}
 .au-first-image-hero{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 70%;
     opacity: 0.8;
     
 }
@@ -160,7 +175,7 @@ text-align: center;
  display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 70%;
     opacity: 0.8;
 }
 
@@ -168,7 +183,7 @@ text-align: center;
 display: block;
 margin-left: auto;
 margin-right: auto;
-width: 50%;
+width: 70%;
 opacity: 0.8;
 
 }
@@ -188,6 +203,7 @@ opacity: 0.8;
     font-weight: 300;
     font-style: normal;
     display: block;
+    padding: 15px 25px 15px 25px;
 
 }
 
