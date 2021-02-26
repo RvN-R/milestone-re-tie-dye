@@ -230,8 +230,9 @@ opacity: 0.8;
  display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 90%;
+    width: 100%;
     opacity: 0.8;
+    
 }
 
 /*FAQ Accordion*/
@@ -258,6 +259,50 @@ background-color: blue;
 .faq-second-col{
     background-color: red;
 }
+
+/*Shop*/
+
+.shop-col-one{
+    background-color: red;
+    padding: 25px 15px 25px 25px;
+}
+
+.shop-col-one div{
+    font-family: 'Roboto', sans-serif;
+}
+
+.shop-col-one p{
+    font-weight: 300;
+}
+
+.shop-col-two{
+    background-color: blue;
+    padding: 25px 15px 25px 15px;
+     
+}
+
+.shop-col-two div{
+    font-family: 'Roboto', sans-serif;
+}
+
+.shop-col-two p{
+    font-weight: 300;
+}
+
+.shop-col-three{
+    background-color: green;
+    padding: 25px 25px 25px 15px;
+    
+}
+
+.shop-col-three div{
+    font-family: 'Roboto', sans-serif;
+}
+
+.shop-col-three p{
+    font-weight: 300;
+}
+
 
 /* Footer*/
 
@@ -308,9 +353,9 @@ min-height: 360px;
 
 
 
-/*Hoover*/
+/*Hover*/
 
-/* Change the color of navigation links on hover */
+/* Hover navigation */
 
 .home-hover-color:hover {
     background-color: #fc66ca;
@@ -335,7 +380,22 @@ min-height: 360px;
     
 }
 
-/* Add a color to the active/current link */
+
+/* Hover icons */
+.fa-instagram:hover{
+    text-shadow: 2px 2px grey;
+}
+
+.fa-twitter:hover{
+    text-shadow: 2px 2px grey;
+}
+
+.fa-facebook-square:hover{
+    text-shadow: 2px 2px grey;
+}
+
+/* Active/current link */
+
 .topnav a.home-active {
   background-color: #fc66ca;
   color: #fafafa;
@@ -354,18 +414,13 @@ min-height: 360px;
   text-shadow: 1px 1px grey;
 }
 
-/* Hoover icons */
-.fa-instagram:hover{
-    text-shadow: 2px 2px grey;
+.topnav a.shop-active{
+     background-color:#cfb0f3;
+  color: #fafafa;
+  text-shadow: 1px 1px grey;
 }
 
-.fa-twitter:hover{
-    text-shadow: 2px 2px grey;
-}
 
-.fa-facebook-square:hover{
-    text-shadow: 2px 2px grey;
-}
 
 /*Media Queries*/
 
