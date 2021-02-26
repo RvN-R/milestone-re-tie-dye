@@ -214,12 +214,14 @@ opacity: 0.8;
 
 /*FAQ Experimentation*/
  
-.faq-first-col{
+#faq-first-col{
 background-color: blue;
+padding: 25px;
 }
 
-.faq-second-col{
+#faq-second-col{
     background-color: red;
+    padding: 25px;
 }
 
 /*Shop*/
