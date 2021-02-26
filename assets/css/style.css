@@ -22,6 +22,14 @@ mark{
     background-image: url(../images/index-images/sharon-mccutcheon-7EK5WABscqw-unsplash.jpg);
 }
 
+.btn-primary{
+    background-image: url(../images/index-images/footerbackgroundimage.jpg);
+}
+
+strong{
+    color: #fc66ca;
+}
+
 /* Heading Formatting*/
 
 
@@ -66,57 +74,17 @@ mark{
 
 /* How it works*/
 
-.howitworkscontainerlist{
- padding-left: 40px;
- background-color: #333;
- overflow: hidden;
- margin: auto;
- border-radius: 8px;
-}
-
-.howitworkscontainertitle{
-    text-align: center;
+.howitworksjumbo{
     font-family: 'Roboto', sans-serif;
-    font-size: 5px;
-    font-weight: 300;
-    padding-top: 8px;
-
+    background-color: white;
 }
 
-#howitworks{
-   font-family: 'Roboto', sans-serif;
-   color: #f2f2f2;
-   font-weight: 300;
-    
+.display-4{
+    font-weight: 500;
 }
 
-.howitworkscentcol p{
-    margin: 0;
-    padding-top: 10px;
-}
-
-.howitworkscentcol{
-    background-color: green;
-    min-height: 200px;
-}
-
-
-/* How it works Button*/
-
-.howitworksbtnoutter{
-  margin: 20px 0;
-  padding: 10px;
-}
-
-.howitworksbtninner {
-  margin: 0 auto;
-  width: 200px;
-  padding: 20px;
-  color: white;
-}
-
-.btn-primary{
-    background-image: url(../images/index-images/footerbackgroundimage.jpg);
+.lead{
+    list-style-position: inside;
 }
 
 /* About Us*/
