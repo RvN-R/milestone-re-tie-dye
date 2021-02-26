@@ -56,7 +56,7 @@
                         <h5 class="card-title">Card title</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk
                             of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Bid!!</a>
+                        <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#bidModal">Bid!!</a>
                     </div>
                 </div>
             </div>
@@ -116,6 +116,43 @@
         </div>
     </footer>
 
+    <!--Modal-->
+
+    <div class="modal" tabindex="-1" id="bidModal">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title text-uppercase">Auction not active</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+          <p>
+              Please fill out the information below, so we can notify you of when the next auction begins. 
+          </p>
+       <form>
+  <div class="form-group">
+    <label for="email">Email address</label>
+    <input type="email" class="form-control" id="email" aria-describedby="email" required>
+    <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+  </div>
+    <div class="form-group">
+    <label for="repeatEmail">Repeat Email address</label>
+    <input type="email" class="form-control" id="repeatEmail" aria-describedby="repeatEmail" required>
+    <small id="emailHelp2" class="form-text text-muted">We'll never share your email with anyone else.</small>
+  </div>
+  <div class="form-group form-check">
+    <input type="checkbox" class="form-check-input" id="exampleCheck1" required>
+    <label class="form-check-label" for="exampleCheck1">Notify me of future auctions</label>
+  </div>
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+      </div>
+    </div>
+  </div>
+</div>
+    
 
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
