@@ -256,6 +256,24 @@ background-color: blue;
 
 /*Shop*/
 
+.shop-heading-outter{
+    padding-top: 10px;
+}
+
+.shop-heading{
+    font-family: "Roboto",sans-serif;
+    font-weight: 500;
+}
+
+.shop-para{
+    font-family: "Roboto",sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    display: block;
+    padding: 15px 25px 15px 25px;
+
+}
+
 .shop-col-one{
     background-color: red;
     padding: 25px 15px 25px 25px;
