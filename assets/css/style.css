@@ -24,12 +24,6 @@ mark{
 
 /* Heading Formatting*/
 
-/* .logo-heading{
-    font-family: 'Kavoon', 'Roboto', sans-serif;
-    font-size: 46px;
-    color: #fafafa;
-    
-} */
 
 .tagline-heading{
     font-family: 'Roboto', sans-serif;
@@ -303,6 +297,13 @@ background-color: blue;
     font-weight: 300;
 }
 
+.shop-card{
+    text-align: center;
+}
+
+/* Pop Up Form*/
+
+
 
 /* Footer*/
 
@@ -380,6 +381,12 @@ min-height: 360px;
     
 }
 
+/* Hover index*/
+
+.btn-primary:hover{
+    color: black;
+}
+
 
 /* Hover icons */
 .fa-instagram:hover{
@@ -427,3 +434,4 @@ min-height: 360px;
 @media screen and (max-width: 767px) {
     .logo-tag-box {display:none;}
 }
+
