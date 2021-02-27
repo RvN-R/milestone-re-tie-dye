@@ -197,10 +197,27 @@ opacity: 0.8;
     
 }
 
+.faq-second-image-hero{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    opacity: 0.8;
+}
+
+#faq-first-col{
+padding: 25px;
+}
+
+#faq-second-col{
+    padding: 25px;
+}
+
+
 /*FAQ Accordion*/
 .faq-btn-question{ 
     font-family: "Roboto", sans-serif;
-    font-weight: bold;
+    font-weight: 500;
     font-style: normal;
     display: block;
 }
@@ -212,17 +229,10 @@ opacity: 0.8;
     display: block;
 }
 
-/*FAQ Experimentation*/
- 
-#faq-first-col{
-background-color: blue;
-padding: 25px;
-}
+/* .card-header{
+    background-color: #8ab0ef;
+} */
 
-#faq-second-col{
-    background-color: red;
-    padding: 25px;
-}
 
 /*Shop*/
 
@@ -433,4 +443,5 @@ min-height: 360px;
 @media screen and (max-width: 767px) {
     .logo-tag-box {display:none;}
 }
+
 

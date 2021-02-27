@@ -95,7 +95,8 @@ Include image of my site from <a href="http://ami.responsivedesign.is/">Responsi
     * Image of Landfill Forest - https://www.pexels.com/@stijn-dijkstra-1306815 
     * images of spices https://www.pexels.com/@karolina-grabowska
     * image of deforestation https://www.pexels.com/@oandremoura
-    *image of a model wearing tie dye: https://www.pexels.com/@cameron-yartz-2341223
+    * image of a model wearing tie dye: https://www.pexels.com/@cameron-yartz-2341223
+    * image of male model wearing tie dye:https://www.pexels.com/@rodnae-prod
 
 Notes on issues i got passed: 
 * couldn't get Re-Tie Dye logo to fit properly when the page went from large to small. Got around this by setting the setting display to block, margin left and right to auto and then exprimented with the width percentage until I found an option that worked. 
@@ -108,6 +109,6 @@ Notes on issues i got passed:
 * The text in the paragraphs of on the About Us page were looking good but they lined up with the top of the images, I needed the text to align with the center of the cols. To do this I used bootstrap align-self-center. 
 * Un order list on index wouldn't center, used d flex and justify content center to try and center it. But due to the differing lengths of the bullet points it still didn't look centered. So I changed the background of the col to create a box, which is centered and that seems to have improved the overall look of the un ordered list on large screens. 
 * order of the hero images and paragraphs on the about me page looked good for mobile devices, but the order didn't work in larger screen sizes. I used bootstrap order to change the order between one hero and one paragraph in small breakpoints and above. This now makes the about me page layout work for both mobile and larger devices. 
-
+* faq looked good on large screen sizes, but the hero image took up too much space on smaller screen sizes. It also left a lot of blank space on medium and small screen sizes. To get past this issue I used a second hero image and slotted it just underneath the orginal hero using a div. I then used bootstap d none, d sm block, d sm none, d md block, d md none and d lg none. I used d none, d md block and d lg none on image of the male model, so it would only show in medium screen sizes. This would solve the issue of too much blank space in medium screen sizes. It would also not show in small screen sizes, which wouldn't compound the issue of the hero taking up too much screen size. I think used d none, d sm none and d md block on the orginal female. This would prevent the hero from appearing in smaller screen sizes thus making the website more responsive. Now only the important FAQ information is present on mobile screen sizes. 
 
 
