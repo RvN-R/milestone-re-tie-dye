@@ -254,6 +254,10 @@ padding: 25px;
 
 }
 
+.card-body ul{
+    list-style-type: none;
+}
+
 .shop-col-one{
 
     padding: 25px 15px 25px 25px;
