@@ -83,7 +83,71 @@ Include image of my site from <a href="http://ami.responsivedesign.is/">Responsi
         * <a href="assets/images/readme-images/Mobile-Item-Scroll.png">Item Page scrolled</a>
         * <a href="assets/images/readme-images/Mobile-Item-Pop-Up.png">Item Page Pop Out</a>
 
-            
+# Features
+
+Each page shares the same header and navigation bar. The header contains the clients logo and a sub heading with a tag line. The tag line succinctly reinforces the brands ethics and mission statement meeting one of the clients requirements. Just below the header is a navigation bar that runs the length of the page. The navigation bar features navigational links to Home, About Us, Shop and FAQ pages. The colors used for each of these navigational links is repeated on each page, to ensure coheriency throughout the website. This meeets the first time vistors requirement "I want to be able to easily navigate throughout the site to find key content" Each page has a footer with social media icons linking to the clients social media accounts. The footer echoes the color and background image of the header, again echoing the coheriatnt design approach. 
+
+<i>Home</i>
+
+The Home page features a Jumbotron Bootleg Component as is main feature. This catches the vistors eye, and quickly explains to the vistor how the website works. Key information is highlighted a complimentry pink found in the Tie Dye background above, which stands out on the white background. 
+
+I've then used a simple call to action button that once clicked leads the vistor to the shop to begin bidding. I've used a blue to compliment the Tie Dye background image used in the header, and also to stand out from the backgrond. This page meets the returning vistor goal of being able to "navigate to the store quickly.", "place a bid on an item quickly" and first time vistors requirement "to easily understand the main purpose of the site".
+
+<i>About Us</i>
+
+The About Us page consists of three small paragraphs that quickly address three unique selling points that the clients brand has over its competitors. To break up the page I have also used three images that reflect the brands ethos, and also the content of the paragraphs. 
+
+To make the page easier to read on remote devices I've changed the running order of how the paragraphs and images appear on larger screen sizes. The images now break up the paragraphs, so when you scroll down on a mobile device the text doesn't become overbearing, and is far easier to obsorb. 
+
+<i>FAQ</i>
+
+The FAQ is laid out in two coloumns containing an accordian component and a hero image. The accordian saves space, and also allows the vistor to concentrate on the questions and answers that concern them. 
+
+The layout stays consistant until we get to remote screen sizes. In medium screen sizes a single image leaves a great deal of empty space, so a second hero image is used to improve the layout of the column. To improve remote screen size user exprience, all hero images dissapear and only the accordian remains. 
+
+<i>Shop</i>
+
+The Shop is relativley simple at this stage, but will allow the client to easily additional garmets as and when they are available. The page consits of three cards running from left to right of the screen. Below each image is key information on the garmet, and then a call to action button should the vistor was to place a bid on the garmet. 
+
+# Existing Features
+
+* Header Logo - Exists on every page and allows the user to easily recognise the clients brand. Clicking the logo   returns the user to the home page as they would expect.
+* Header Navigation Bar - Exists on every page and allows the user to easily navigate across the website.
+* Footer Social Icons - Exists on every page and allows all users to access the clients social media platforms. 
+* Call to Action Buttons - Exists on the Home and Shop page. They allow the user to quickly bid on a garmet. 
+* How it Works - Is the first thing a vistor will see once they go to the clients home page.It allows potential     clients to understand the steps in bidding on a garmet. 
+* About Us - Allows vistors to understand the clients journey, ethos and what they represent. 
+* Modal for Images - Allows vistors to the shop to view garmets easily without having the leave the website. The    vistor can click on the garmets image, a pop out of that image will appear.  
+* Modal for Bidding - Allows the vistors to easily express interest in a garmet. Vistor clicks the button and a     modal appears, givig them the oppertunity to register there email address. This allows the client to contact      the potential customer at a later date to inform them when the auction begins.     
+
+# Features Left to Implement
+
+* <i>GDPR Checkbox</i> - Allows the vistor to approve the client to use the vistors email address to inform them of        future auctions. Also enusures the client complies with EU data protection law. 
+* <i>Garmet pages</i> - Once the vistor clicks on a garmet it will take them to a web page dedicated to that garmet. It    will provide more images of the garmet, more detailed information on the garmet and an oppertunity to bid on      garmet. 
+* <i>Count Down</i> - On the home page will be a large count down notfying vistors of when the next auciton will begin.    It will be synced to the websites back end when the auction goes live and when the auctions stops.   
+* <i>Remote View Nav Bar</i> - In remote screen sizes current nav bar could become overbearing. Testing results gave       conflicitng feedback, so this feature may or may not be required. 
+* <i>Additonal Footer Menu</i> - As the client and vistor requirements grow over time an additonal footer menu will be     required, linking the vistor to pages coveriing shipping & return and privacy policy & terms. 
+* <i>Input Text Footer</i> - This will allow the vistor to input there email address and an oppertunity to submit there    details to be notified on any exciting news in the future.
+
+# Technologies Used
+
+* This website used HTML and CSS programming languages
+* <a href="https://getbootstrap.com/">BootStrap CDN</a>
+    * This project uses Bootstrap5 to help make the website responsive. 
+
+* <a href="https://fonts.google.com/">Google Fonts</a>
+    * This project uses Google Fonts to style the websites fonts.
+
+* <a href="https://popper.js.org/">Popper.js</a>
+    * This project uses Popper.js Javascript for modal used on the shop.
+
+* <a href="https://www.photoshop.com/en">Adobe Photoshop</a>
+    * This project uses Photoshop to design and create the clients logo found in the header.
+
+
+
+
+
 
 
 * ## Images
