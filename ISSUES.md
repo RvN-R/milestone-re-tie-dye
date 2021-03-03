@@ -15,22 +15,24 @@
     <img src="assets/images/issues-images/ulindexbulletpointstoofarout.png">
 
 
-    To get past this issue I added the class of lead to my ul, then in style.css I used list-style-position to bring the bullet points closer to the text. This looked a great deal better and made the instructions clearer to understand. 
+
+        To get past this issue I added the class of lead to my ul, then in style.css I used list-style-position to bring the bullet points closer to the text. This looked a great deal better and made the instructions clearer to understand.
+
 
 
     <img src="assets/images/issues-images/ulindexbulletpointstoofaroutfixhtml.png">
 
-    <i>html code used in bullet point fix</i>
+        <i>html code used in bullet point fix</i>
 
     <img src="assets/images/issues-images/ulindexbulletpointstoofaroutfixcss.png">
 
-    <i>css code used in bullet point fix</i>
+        <i>css code used in bullet point fix</i>
 
     <img src="assets/images/issues-images/ulindexbulletpointstoofaroutfix.png">
-    
-    <i>how the page looked after the fix was applied</i>
 
+        <i>how the page looked after the fix was applied</i>
 
+<hr>
 
 
 
