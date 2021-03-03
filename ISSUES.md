@@ -4,9 +4,35 @@
 
 * had unwanted white gaps in my navigation li elements, used the inspector tool and discoverd the bootstrap item "list-inline-item" sets a margin automatically. In my style.css I set that class to 0 margin. Also created my own class in the Ul called menucontainer and set the font size to 0. This sorted out the issue but now the font in my li was 0, so using an id called nav I targeted the li's within that id and set there font size so I could see my navigation headings. Saved images depiciting this. 
 
-* used https://css-tricks.com/centering-css-complete-guide/ to figure out how to center a button "Click me to get Bidding!"
 
 * margins for two bottstrap container classes weren't lining up, discovered container class had padding-right and padding-left settings. I had to over right these settings using insepctor tool in chrome. I then set padding right and padding left for all container classes to 0 in style.css.
+
+* Bullet Point Issue
+
+    * The Home page was looking great, I used Bootstrap component called Jumbotron to quickly and effectly instruct the vistor on how to use the website. I decided the best way was to use an un ordered list, but the bullet points didn't look right. They were too far away from the text once I centered the text using my text-center class. 
+
+    <img src="assets/images/issues-images/ulindexbulletpointstoofarout.png">
+
+    To get past this issue I added the class of lead to my ul, then in style.css I used list-style-position to bring the bullet points closer to the text. This looked a great deal better and made the instructions clearer to understand. 
+
+    <img src="assets/images/issues-images/ulindexbulletpointstoofaroutfixhtml.png">
+    <i>html code used in bullet point fix</i>
+
+    <img src="assets/images/issues-images/ulindexbulletpointstoofaroutfixcss.png">
+    <i>css code used in bullet point fix</i>
+
+    <img src="assets/images/issues-images/ulindexbulletpointstoofaroutfix.png">
+    <i>how the page looked after the fix was applied</i>
+
+
+
+
+
+
+
+
+
+
 
 * I struggled to get the social icons that I wanted in my footer to center.
 
