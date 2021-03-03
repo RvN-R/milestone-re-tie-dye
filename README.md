@@ -55,8 +55,8 @@ Include image of my site from <a href="http://ami.responsivedesign.is/">Responsi
 
      
     * ### Typography 
-        * Kavoon is the font chosen for use across the website site , with Sans Serif as the back up font in case 
-        there are any issues importing into the site correctly. Kavoon shares the same connotations as the brand image of the
+        * Roboto is the font chosen for use across the website site , with Sans Serif as the back up font in case 
+        there are any issues importing into the site correctly. Kavoon was also used in the creation of the clients logo. Roboto and Kavoon both sharethe same connotations as the brand image of the
         organisation, so it meets the clients requirements. 
 
 
@@ -132,19 +132,35 @@ The Shop is relativley simple at this stage, but will allow the client to easily
 # Technologies Used
 
 * This website used HTML and CSS programming languages
-* <a href="https://getbootstrap.com/">BootStrap CDN</a>
+
+* <a href="https://getbootstrap.com/">BootStrap CDN:</a>
     * This project uses Bootstrap5 to help make the website responsive. 
 
-* <a href="https://fonts.google.com/">Google Fonts</a>
+* <a href="https://fonts.google.com/">Google Fonts:</a>
     * This project uses Google Fonts to style the websites fonts.
 
-* <a href="https://popper.js.org/">Popper.js</a>
+* <a href="https://fontawesome.com/">Font Awesome:</a>
+    * This project uses Font Awesome through out the website to add social media icons to the footer.
+
+* <a href="https://popper.js.org/">Popper.js:</a>
     * This project uses Popper.js Javascript for modal used on the shop.
 
-* <a href="https://www.photoshop.com/en">Adobe Photoshop</a>
+* <a href="https://www.photoshop.com/en">Adobe Photoshop:</a>
     * This project uses Photoshop to design and create the clients logo found in the header.
 
+* <a href="https://balsamiq.com/">Balsamiq:</a>
+    * This project uses Balsamiq to create wireframes during the design process.
 
+* <a href="https://git-scm.com/">Git:</a>
+    * Git was used for version control, using the Gitpod terminal to add, commit to Git and Push to GitHub.
+
+* <a href="https://github.com/">Git Hub:</a>
+    * GitHub was used to store the projects code after being pushed from Git.
+
+# Issues I Faced and Overcame
+* More information on the issues I faced on this project, and how I overcame them can be found in separate ISSUES.md file. 
+
+# Testing
 
 
 
