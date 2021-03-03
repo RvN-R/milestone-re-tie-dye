@@ -41,18 +41,12 @@ Include image of my site from <a href="http://ami.responsivedesign.is/">Responsi
 * ## Design 
 
     * ### Color Scheme  
-        * Main color scheme sourced with the help of a website called <a href="https://coolors.co/">coolors</a>. 
-        Hex numbers of each colour used included below: 
-
-            * #ffadad
-            * #ffd6a5
-            * #fdffb6
-            * #caffbf
-            * #9bf6ff
-            * #a0c4ff
-            * #bdb2ff
-            * #ffc6ff
-
+        * I took my main insperation on the color schceme from the Tie Dye background image I used for my header and footer by <a href="https://unsplash.com/@sharonmccutcheon">Sharaon McCutcheon</a>. I've listed the hex numbers of the colors I used below.
+        
+         * #fc66ca
+         * #fcb9fc
+         * #8ab0ef
+         * #cfb0f3
      
     * ### Typography 
         * Roboto is the font chosen for use across the website site , with Sans Serif as the back up font in case 
