@@ -11,21 +11,17 @@
 * I struggled to get the social icons that I wanted in my footer to center. 
 <img src="assets/images/issues-images/can'tgetsocialstocenter.png">
 
-I tried using combination of row justify-content-center with a single col-12 but it wouldn't center. I found that if I used three col 4 and copied the social icons into the 2nd col 4. I left the first and third col emppty and then created a class called social-align to text align the icons. I am sure this isn't a perfect fix and as my journey contiunes I would like to find another solution.
+I tried using combination of different Bootstrap layout components like row justify-content-center with a single col-12 but the icons wouldn't center. I found that if I used three col 4 and copied the html for the social icons into the 2nd col 4, and then left the first and third col emppty the icons would appear close the the center. I then created a class called social-align to text align the icons to get the desired affect. I've included images of the html code below. 
+<img src="assets/images/issues-images/can'tgetsocialstocenterfix.png">
+
+I am sure this isn't a perfect fix and as my journey contiunes I would like to find another solution.
 
 
+* The header was looking good on desktop screens, but on small screen and remote devices the header took up too much room on screen sizes below 767px. 
+<img src="assets/images/issues-images/largeheaderinmobileview.png">
 
-
-
-
-
-
-
-
-
-* wasn't happy with my navigation so used https://www.w3schools.com/howto/howto_js_topnav.asp as insperation for new navigation. taken screen shots. 
-
-* header was looking good on desktop screens, but got overly large screen sizes below 767px, used media queries to display none the second col containing websites tagline. taken screen shots.
+I used media queries in my style.css so that when screen sizes went below 767px they didn't display the second col that contains the websites tagline. It wouldn't be benificial to a remote users experience
+<img src="assets/images/issues-images/largeheaderinmobileviewfix.png">
 
 * The text in the paragraphs of on the About Us page were looking good but they lined up with the top of the images, I needed the text to align with the center of the cols. To do this I used bootstrap align-self-center. 
 
