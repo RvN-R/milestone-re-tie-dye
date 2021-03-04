@@ -1,47 +1,49 @@
 <h1 style="text-align: center;">Issues I Faced and How I Overcame Them</h1>
 
-* Bullet Point Issue
+<h3>Bullet Point Issue</h3>
 
-    * The Home page was looking great, I used Bootstrap component called Jumbotron to quickly and effectly instruct the vistor on how to use the website. I decided the best way was to use an un ordered list, but the bullet points didn't look right. They were too far away from the text once I centered the text using my text-center class. 
-
-
-    <img src="assets/images/issues-images/ulindexbulletpointstoofarout.png">
+The Home page was looking great, I used Bootstrap component called Jumbotron to quickly and effectly instruct the vistor on how to use the website. I decided the best way was to use an un ordered list, but the bullet points didn't look right. They were too far away from the text once I centered the text using my text-center class. 
 
 
-    To get past this issue I added the class of lead to my ul, then in style.css I used list-style-position to bring the bullet points closer to the text. This looked a great deal better and made the instructions clearer to understand. 
 
 
-    <img src="assets/images/issues-images/ulindexbulletpointstoofaroutfixhtml.png">
+<img src="assets/images/issues-images/ulindexbulletpointstoofarout.png">
 
-    <i>html code used in bullet point fix</i>
 
-    <img src="assets/images/issues-images/ulindexbulletpointstoofaroutfixcss.png">
+To get past this issue I added the class of lead to my ul, then in style.css I used list-style-position to bring the bullet points closer to the text. This looked a great deal better and made the instructions clearer to understand. 
 
-    <i>css code used in bullet point fix</i>
 
-    <img src="assets/images/issues-images/ulindexbulletpointstoofaroutfix.png">
+<img src="assets/images/issues-images/ulindexbulletpointstoofaroutfixhtml.png">
+
+<i>html code used in bullet point fix</i>
+
+<img src="assets/images/issues-images/ulindexbulletpointstoofaroutfixcss.png">
+
+<i>css code used in bullet point fix</i>
+
+<img src="assets/images/issues-images/ulindexbulletpointstoofaroutfix.png">
     
-    <i>how the page looked after the fix was applied</i>
+<i>how the page looked after the fix was applied</i>
 
 <hr>
 
-* Centering Social Icons
+<h3>Centering Social Icons</h3>
 
-    * I struggled to get the social icons that I wanted in my footer to center.
+* I struggled to get the social icons that I wanted in my footer to center.
 
-    <img src="assets/images/issues-images/can'tgetsocialstocenter.png">
+<img src="assets/images/issues-images/can'tgetsocialstocenter.png">
 
-    I tried using combination of different Bootstrap layout components like row justify-content-center with a single col-12 but the icons wouldn't center. I found that if I used three col 4 and copied the html for the social icons into the 2nd col 4, and then left the first and third col emppty the icons would appear close the the center. I then created a class called social-align to text align the icons to get the desired affect. I've included images of the html code below. 
+I tried using combination of different Bootstrap layout components like row justify-content-center with a single col-12 but the icons wouldn't center. I found that if I used three col 4 and copied the html for the social icons into the 2nd col 4, and then left the first and third col emppty the icons would appear close the the center. I then created a class called social-align to text align the icons to get the desired affect. I've included images of the html code below. 
 
-    <img src="assets/images/issues-images/can'tgetsocialstocenterfix.png">
+<img src="assets/images/issues-images/can'tgetsocialstocenterfix.png">
 
-    I am sure this isn't a perfect fix and as my journey contiunes I would like to find another solution.
+I am sure this isn't a perfect fix and as my journey contiunes I would like to find another solution.
 
 <hr>
 
-* Improving Headers Responsiveness
+<h3>Improving Headers Responsiveness</h3>
 
-    * The header was looking good on desktop screens, but on small screen and remote devices the header took up too much room on screen sizes below 767px. 
+* The header was looking good on desktop screens, but on small screen and remote devices the header took up too much room on screen sizes below 767px. 
 
     <img src="assets/images/issues-images/largeheaderinmobileview.png">
 
@@ -51,9 +53,9 @@
 
 <hr>
 
-* Improving Layout of About Us
+<h3>Improving Layout of About Us</h3>
 
-    * The order of the hero images and paragraphs on the about me page looked good for mobile devices, as shown in the image below: 
+* The order of the hero images and paragraphs on the about me page looked good for mobile devices, as shown in the image below: 
 
     <img src="assets/images/issues-images/heroandtextlayoutaboutmemobile.png">
 
@@ -71,9 +73,9 @@
 
 <hr>
 
-* Improving FAQ Responsiveness
+<h3>Improving FAQ Responsiveness</h3>
 
-    * The FAQ page looked good on large screen sizes, but the hero image took up too much space on smaller screen sizes. It also left a lot of blank space on medium and small screen sizes.
+* The FAQ page looked good on large screen sizes, but the hero image took up too much space on smaller screen sizes. It also left a lot of blank space on medium and small screen sizes.
 
     <img src="assets/images/issues-images/toomuchfreespaceinfaqmdsize.png">
     <i>hero leaving too much room on medium screen sizes.</i>
