@@ -56,26 +56,28 @@ Include image of my site from <a href="http://ami.responsivedesign.is/">Responsi
 
     * ### Wireframe Mockups - Desktop
 
-        * <a href="assets/images/readme-images/Desktop-Home .png"> Home</a>
-        * <a href="assets/images/readme-images/Desktop-AboutUs.png">About Us</a>
-        * <a href="assets/images/readme-images/Desktop-F.A.Q.png">F.A.Q</a>
-        * <a href="assets/images/readme-images/Desktop-Shop.png">Shop</a>
-        * <a href="assets/images/readme-images/Desktop-ItemPage.png">Item Page</a>
-        * <a href="assets/images/readme-images/Desktop-ItemPagePopOut.png">Item Page Pop Out</a>
+    readme-assets/readme-images/Desktop-Home .png
+
+        * <a href="readme-assets/readme-images/Desktop-Home .png"> Home</a>
+        * <a href="readme-assets/readme-images/Desktop-AboutUs.png">About Us</a>
+        * <a href="readme-assets/readme-images/Desktop-F.A.Q.png">F.A.Q</a>
+        * <a href="readme-assets/readme-images/Desktop-Shop.png">Shop</a>
+        * <a href="readme-assets/readme-images/Desktop-ItemPage.png">Item Page</a>
+        * <a href="readme-assets/readme-images/Desktop-ItemPagePopOut.png">Item Page Pop Out</a>
 
    * ### Wireframe Mockups - Mobile Device
 
-        * <a href="assets/images/readme-images/Mobile-Home.png">Home</a> 
-        * <a href="assets/images/readme-images/Mobile-Home-Nav.png">Home with Navigation</a>
-        * <a href="assets/images/readme-images/Mobile-About Us.png">About Us</a> 
-        * <a href="assets/images/readme-images/Mobile-AboutUs-Scrolled.png">About Us scrolled</a>  
-        * <a href="assets/images/readme-images/Mobile-FAQ.png">F.A.Q</a> 
-        * <a href="assets/images/readme-images/Moble-FAQ-Scolled.png">F.A.Q scrolled</a>
-        * <a href="assets/images/readme-images/Mobile-Shop.png">Shop</a> 
-        * <a href="assets/images/readme-images/Mobile-Shop-Scolled.png">Shop scrolled</a>
-        * <a href="assets/images/readme-images/Mobile-Item.png">Item Page</a> 
-        * <a href="assets/images/readme-images/Mobile-Item-Scroll.png">Item Page scrolled</a>
-        * <a href="assets/images/readme-images/Mobile-Item-Pop-Up.png">Item Page Pop Out</a>
+        * <a href="readme-assets/readme-images/Mobile-Home.png">Home</a> 
+        * <a href="readme-assets/readme-images/Mobile-Home-Nav.png">Home with Navigation</a>
+        * <a href="readme-assets/readme-images/Mobile-About Us.png">About Us</a> 
+        * <a href="readme-assets/readme-images/Mobile-AboutUs-Scrolled.png">About Us scrolled</a>  
+        * <a href="readme-assets/readme-images/Mobile-FAQ.png">F.A.Q</a> 
+        * <a href="readme-assets/readme-images/Moble-FAQ-Scolled.png">F.A.Q scrolled</a>
+        * <a href="readme-assets/readme-images/Mobile-Shop.png">Shop</a> 
+        * <a href="readme-assets/readme-images/Mobile-Shop-Scolled.png">Shop scrolled</a>
+        * <a href="readme-assets/readme-images/Mobile-Item.png">Item Page</a> 
+        * <a href="readme-assets/readme-images/Mobile-Item-Scroll.png">Item Page scrolled</a>
+        * <a href="readme-assets/readme-images/Mobile-Item-Pop-Up.png">Item Page Pop Out</a>
 
 # Features
 
