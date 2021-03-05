@@ -77,7 +77,7 @@ strong{
 }
 
 
-/* How it works*/
+/* How it works Jumbotron*/
 
 .howitworksjumbo{
     font-family: 'Roboto', sans-serif;
@@ -93,43 +93,42 @@ strong{
 }
 
 /* About Us*/
-
-.au-heading-outter{
+.about-us-heading-outter{
     padding-top: 10px;
 }
 
 
-#au-first-tb{
+#about-us-first-tb{
     padding: 25px;
     text-align: center;
 }
 
-#au-second-tb{
+#about-us-second-tb{
     padding: 25px;
     text-align: center;
 }
 
-#au-third-tb{
+#about-us-third-tb{
     padding: 25px;
     text-align: center;
     
 }
 
-.au-first-hero{
+.about-us-first-hero{
     padding-top: 15px;
     padding-bottom: 15px;
 }
 
-.au-second-hero{
+.about-us-second-hero{
     padding-top: 15px;
     padding-bottom: 15px;
 }
 
-.au-third-hero{
+.about-us-third-hero{
     padding-top: 15px;
     padding-bottom: 30px;
 }
-.au-first-image-hero{
+.about-us-first-image-hero{
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -138,7 +137,7 @@ strong{
     
 }
 
-.au-second-image-hero{
+.about-us-second-image-hero{
  display: block;
     margin-left: auto;
     margin-right: auto;
@@ -146,7 +145,7 @@ strong{
     opacity: 0.8;
 }
 
-.au-third-image-hero{
+.about-us-third-image-hero{
 display: block;
 margin-left: auto;
 margin-right: auto;
@@ -155,17 +154,17 @@ opacity: 0.8;
 
 }
 
-.au-heading{
+.about-us-heading{
     font-family: "Roboto",sans-serif;
     font-weight: 500;
 }
 
-.au-sub-heading{
+.about-us-sub-heading{
     font-family: "Roboto",sans-serif;
     font-weight: 400;
 }
 
-.au-para{
+.about-us-para{
     font-family: "Roboto",sans-serif;
     font-weight: 300;
     font-style: normal;
@@ -371,10 +370,6 @@ min-height: 360px;
     margin-right: auto;
     width: 80%;
 }
-
-/*Colors*/
-
-
 
 /*Hover*/
 
