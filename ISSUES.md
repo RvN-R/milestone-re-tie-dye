@@ -1,5 +1,7 @@
 <h1 style="text-align: center;">Issues I Faced and How I Overcame Them</h1>
 
+<a href="/workspace/milestone-re-tie-dye/README.md">Main README.md file</a>
+
 <h3>Bullet Point Issue</h3>
 
 The Home page was looking great, I used a Bootstrap component called Jumbotron to quickly and effectually instruct the visitor on how to use the website. I decided the best way was to use an un ordered list, but the bullet points didn't look right. They were too far away from the text once I centered the text using my text-center class. 
