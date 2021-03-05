@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Kavoon&family=Roboto:wght@300;400;500;700;900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Kavoon&family=Roboto:wght@300;400;500;700;900&display=swap");
 
 /* General CSS used throught website */
 
@@ -39,7 +39,7 @@ strong{
 
 
 .tagline-heading{
-    font-family: 'Roboto', sans-serif;
+    font-family: "Roboto", sans-serif;
     color: #fafafa;
 }
 
@@ -80,7 +80,7 @@ strong{
 /* How it works Jumbotron*/
 
 .howitworksjumbo{
-    font-family: 'Roboto', sans-serif;
+    font-family: "Roboto", sans-serif;
     background-color: white;
 }
 
@@ -268,7 +268,7 @@ padding: 25px;
 }
 
 .shop-col-one div{
-    font-family: 'Roboto', sans-serif;
+    font-family: "Roboto", sans-serif;
 }
 
 .shop-col-one p{
@@ -282,7 +282,7 @@ padding: 25px;
 }
 
 .shop-col-two div{
-    font-family: 'Roboto', sans-serif;
+    font-family: "Roboto", sans-serif;
 }
 
 .shop-col-two p{
@@ -295,7 +295,7 @@ padding: 25px;
 }
 
 .shop-col-three div{
-    font-family: 'Roboto', sans-serif;
+    font-family: "Roboto", sans-serif;
 }
 
 .shop-col-three p{
@@ -310,7 +310,7 @@ padding: 25px;
 /*Modal*/
 
 div.modal-content{
-    font-family: 'Roboto',sans-serif;
+    font-family: "Roboto",sans-serif;
     font-weight: 400;
 }
 
