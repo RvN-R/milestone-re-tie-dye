@@ -4,9 +4,19 @@
 
 I used <a href="https://validator.w3.org/">Markup Validation Service</a> and <a href="https://jigsaw.w3.org/css-validator/">CSS Validation Service</a> to check both HTML and CSS using the direct input function of both services. The results came back with no issues flagged.
 
+I used Chromes inspect feature Lighthouse on all of my pages, to try and improve the sites performance. The reports found the following: 
+
+<b>Home Page</b> - when tested on mobile and desktop performance the page scored well. For Accessibility, Best Practices and SEO it scored in the high 90's. However, it was let down with Performance with a score of 71 for mobile and 87 in desktop. Report blamed large image file sizes, and large image in the header. 
+
+<b>About Page</b> - when tested in mobile and desktop the page scored in the high 80's for Performance and Accessibility. It scored in the high 90's for Best Practices and SEO. However, when tested for mobile devices the page scored 70's for Performance and high 80's for Accessibility. The report mentioned unused CSS being present and size of the images. I went through the HTML to delete any unused CSS classes, and also experimented in Photoshop saving the images with lower bit depth to try and speed up load time. 
+
+<b>Shop Page</b> - when tested in mobile and desktop the page scored in the high 80's for Performance, Accessibility, Best Practices and SEO. However, in mobile it scored high 60s for Performance. The main issues seem to be caused due by large image file sizes, and unused javascript within Bootleg components. I don't know enough about Javascript to delete these unused features without seriously affecting the use of the component itself. Once I deploy some more Javascript within the site, hopefully some of these unused features will become used. Regarding image sizes I experimented in Photoshop with differing files sizes. This is more vital with this page due to the amount of images the client will end up using on this page.  I also experimented with different codecs like JPEG, and saved at a lower bit depth. Load time was less but image quality was unacceptable so I went back to PNG. 
+
+<b>FAQ Page</b> - when tested in mobile and desktop the page scored in the high 90's for Performance, Accessibility, Best Practice and SEO. However, it was let down in the mobile report scoring in the high 60's for Performance. Similar reasons that where report in the Lighthouse reports for the Shop page were reported here. Size of images and unused Javascript within the Bootleg components. 
+
+In conclusion from looking at all of the Lighthouse Reports more experimentation with image file sizes and codecs is required to improve the load up time of the website. As already mentioned an attempt was made during the creation of this site, which improved the results and performance within Lighthouse. However, with some additional research on the subject I am sure we can see some slight improvement in load up of the site.
+
 ## Testing Client Requirements featured in README.md
-
-
 
 * ### We need a platform that illustrates and shares our key values.
     i.  No matter the webpage they are currently on, visitors to the website can easily navigate to the About page. The About page contains key information and explains the clients key values with the help of hero images that echo the connotations of the paragraphs. 

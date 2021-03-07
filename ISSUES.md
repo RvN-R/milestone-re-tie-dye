@@ -41,7 +41,7 @@ I tried using combination of different Bootstrap layout components like row just
 
 <img src="assets/images/issues-images/can'tgetsocialstocenterfix.png">
 
-I am sure this isn't a perfect fix and as my journey continues I would like to find another solution.
+In later testing of the website on smaller remote devices the first two icons (Instagram and Twitter) didn't line up with the third icon. Using the inspect tool in Chrome I discovered that within the Bootstrap Card component the left and right had a margin-right of 5px. I was able to target that specific area of the Card component within my style.css file. I set the margin right to 0, this resulted in all three social icons being centered.  
 
 <hr>
 
