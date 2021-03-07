@@ -154,29 +154,48 @@ The Shop is relativley simple at this stage, but will allow the client to easily
 
 <hr>
 
-* ## Images
-    * Tie Dye back ground image for header https://unsplash.com/photos/7EK5WABscqw
-    * Tie Dye background image for header other images by https://unsplash.com/@sharonmccutcheon
-    * Image of Dyes in India - https://unsplash.com/@jaipurthrumylens 
-    * Image of growing tree - https://unsplash.com/@noahbuscher
-    * Image of Solor Panel - https://unsplash.com/@publicpowerorg
-    * Image of Landfill Forest - https://www.pexels.com/@stijn-dijkstra-1306815 
-    * images of spices https://www.pexels.com/@karolina-grabowska
-    * image of deforestation https://www.pexels.com/@oandremoura
-    * image of a model wearing tie dye: https://www.pexels.com/@cameron-yartz-2341223
-    * image of male model wearing tie dye:https://www.pexels.com/@rodnae-prod
+# Technologies Used
 
-Notes on issues i got passed: 
-* couldn't get Re-Tie Dye logo to fit properly when the page went from large to small. Got around this by setting the setting display to block, margin left and right to auto and then exprimented with the width percentage until I found an option that worked. 
-* had unwanted white gaps in my navigation li elements, used the inspector tool and discoverd the bootstrap item "list-inline-item" sets a margin automatically. In my style.css I set that class to 0 margin. Also created my own class in the Ul called menucontainer and set the font size to 0. This sorted out the issue but now the font in my li was 0, so using an id called nav I targeted the li's within that id and set there font size so I could see my navigation headings. Saved images depiciting this. 
-* used https://css-tricks.com/centering-css-complete-guide/ to figure out how to center a button "Click me to get Bidding!"
-* margins for two bottstrap container classes weren't lining up, discovered container class had padding-right and padding-left settings. I had to over right these settings using insepctor tool in chrome. I then set padding right and padding left for all container classes to 0 in style.css.
-* struggling to get the social icons to center. tried using combination of row justify-content-center with a single col-12 but it wouldn't center. Quick fix I used three col 4, copied the social icons into the 2nd col 4, then created a class called social-align to text align the icons. I left the 1st and 3rd col 4 blank and got the end effect. This isn't a perfect fix and I would like to find another solution. have images.
-* wasn't happy with my navigation so used https://www.w3schools.com/howto/howto_js_topnav.asp as insperation for new navigation. taken screen shots. 
-* header was looking good on desktop screens, but got overly large screen sizes below 767px, used media queries to display none the second col containing websites tagline. taken screen shots.
-* The text in the paragraphs of on the About Us page were looking good but they lined up with the top of the images, I needed the text to align with the center of the cols. To do this I used bootstrap align-self-center. 
-* Un order list on index wouldn't center, used d flex and justify content center to try and center it. But due to the differing lengths of the bullet points it still didn't look centered. So I changed the background of the col to create a box, which is centered and that seems to have improved the overall look of the un ordered list on large screens. 
-* order of the hero images and paragraphs on the about me page looked good for mobile devices, but the order didn't work in larger screen sizes. I used bootstrap order to change the order between one hero and one paragraph in small breakpoints and above. This now makes the about me page layout work for both mobile and larger devices. 
-* faq looked good on large screen sizes, but the hero image took up too much space on smaller screen sizes. It also left a lot of blank space on medium and small screen sizes. To get past this issue I used a second hero image and slotted it just underneath the orginal hero using a div. I then used bootstap d none, d sm block, d sm none, d md block, d md none and d lg none. I used d none, d md block and d lg none on image of the male model, so it would only show in medium screen sizes. This would solve the issue of too much blank space in medium screen sizes. It would also not show in small screen sizes, which wouldn't compound the issue of the hero taking up too much screen size. I think used d none, d sm none and d md block on the orginal female. This would prevent the hero from appearing in smaller screen sizes thus making the website more responsive. Now only the important FAQ information is present on mobile screen sizes. 
+Testing information can be found on a seperate <a href="TESTING.md">Testing Readme</a> I've also created a seperate <a href="ISSUES.md">Issues Readme</a> that documents the issues I experienced creating this site and the steps I took to get past them. 
 
+# Credits 
+
+## Content
+
+All text content on this site including "About Us", "So, How Does This Work?", Shop and FAQ questions and answers were written by me. 
+
+Company Logo was created by me using Photoshop
+
+## Media
+
+Images used on this website were sourced from two websites <a href="https://unsplash.com/"></a>Unsplashed or <a href="https://www.pexels.com/">Pexels</a>
+
+<u>Home Page Images</u>
+
+    * <a href="https://unsplash.com/photos/7EK5WABscqw">Tie Dye back ground image for header</a> created by <ahref="https://unsplash.com/@sharonmccutcheon">Sharon Mccutcheon</a>
+
+<u>About Page Images</u>
+
+    * <a href="https://www.pexels.com/@stijn-dijkstra-1306815">Image of Landfill Forest</a>
+    * <a href="https://www.pexels.com/@karolina-grabowska">Image of Spices in a Market</a>
+    * <a href="https://www.pexels.com/@oandremoura">Image of Deforestation</a>
+
+<u>FAQ Page Images</u>
+
+    * <a href="https://www.pexels.com/@cameron-yartz-2341223">Female Model wearing Tie Dye</a>
+    * <a href="https://www.pexels.com/@rodnae-prod">Male Model wearing Tie Dye</a>
+
+<u>Shop Page Images</u>
+
+    * All of the photos of garmets where taken by me. 
+
+## Acknowledgements
+
+* I used the <a href="https://www.w3schools.com/howto/howto_js_topnav.asp">"How To - Top Navigation"</a> tutorial on w3schools.com as help and insperation for my Navigation Bar on this site. 
+
+* I used the <a href="https://getbootstrap.com/docs/4.5/components/card/">Bootstrap Component Card</a> as a foundation to stylise and present my main content on the Shop Page. 
+
+* I used the <a href="https://getbootstrap.com/docs/4.5/components/collapse/#accordion-example">Bootstrap Component Collapse</a> and the accordian example as a foundation to stylise and present the answer and question section of the FAQ page.
+
+* I used the <a href="https://getbootstrap.com/docs/4.5/components/jumbotron/">Bootstrap Component Jumbotron</a> to stylise and present the "so, how does this work?" section of the Home page.
 
