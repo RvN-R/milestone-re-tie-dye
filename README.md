@@ -54,7 +54,7 @@ Include image of my site from <a href="http://ami.responsivedesign.is/">Responsi
 
 
     * ### Wireframe Mockups - Desktop
-        * <a href="readme-assets/readme-images/Desktop-Home .png"> Home</a>
+        * <a target= "_blank" href="readme-assets/readme-images/Desktop-Home .png"> Home</a>
         * <a href="readme-assets/readme-images/Desktop-AboutUs.png">About Us</a>
         * <a href="readme-assets/readme-images/Desktop-F.A.Q.png">F.A.Q</a>
         * <a href="readme-assets/readme-images/Desktop-Shop.png">Shop</a>
@@ -165,12 +165,12 @@ Testing information can be found on a seperate <a href="TESTING.md">Testing Read
 
 The project was deployed to GitHub Pages using the following steps: 
     
-    1 Log in to GitHub and locate the correct GitHub Repository
-    2 At the top of the Repository, locate the Settings button (settings should be depicted as three small dots).
-    3 Scroll down the Settings page until you get to "GutHub Pages" section. 
-    4 Under "Source", click the drop down called "None" and select "Master".
-    5 Click the "Save", the page will atomatically refresh. 
-    6 Scroll back down to "GitHub Pages" and you will see the now published <a href="https://rvn-r.github.io/milestone-re-tie-dye/">site</a>link. 
+1.   Log in to GitHub and locate the correct GitHub Repository
+2.   At the top of the Repository, locate the Settings button (settings should be depicted as three small dots).
+3.   Scroll down the Settings page until you get to "GutHub Pages" section. 
+4.   Under "Source", click the drop down called "None" and select "Master".
+5.   Click the "Save", the page will atomatically refresh. 
+6.   Scroll back down to "GitHub Pages" and you will see the now published <a href="https://rvn-r.github.io/milestone-re-tie-dye/">site</a> link. 
 
 
 # Credits 

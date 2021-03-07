@@ -141,4 +141,4 @@ I used <a href="https://validator.w3.org/">Markup Validation Service</a> and <a 
 ##Further Testing
 
 * Viewed the website on various devices including iPhone 11, iPad Pro, Microsoft Surface and iMac Pro. On extremely large screen sizes the website was off center. To get past this issue I set the body's max width to 2000px and the left and right margin to 0. This centered the website on larger screen sizes. 
-* Sent link of website to family and friends for them to check over the site, no issues flagged. 
+* Sent link of website to family and friends for them to check over the site. It was also reported the background image of the header takes a while to load. Still trying to find the actual reason for this bug. I've experimented compression the image in Photoshop to lower the file size, thus speeding up the load time. This has worked slightly but more experimentaion on file size needs to be completed to improve to the load time. 
