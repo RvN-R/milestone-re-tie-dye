@@ -149,16 +149,41 @@ The Shop is relativley simple at this stage, but will allow the client to easily
 * <a href="https://github.com/">Git Hub:</a>
     * GitHub was used to store the projects code after being pushed from Git.
 
-# Issues I Faced and Overcame
-* More information on the issues I faced on this project, and how I overcame them can be found in separate <a href="ISSUES.md">ISSUES.md</a>
+* <a href="https://stackedit.io/app#">Stackedit:</a>
+    * Stacked edit was used to confirm layout and spell check my README ISSUES and TESTING md files.
+
 
 <hr>
 
-# Technologies Used
+# Testing
 
-Testing information can be found on a seperate <a href="TESTING.md">Testing Readme</a> I've also created a seperate <a href="ISSUES.md">Issues Readme</a> that documents the issues I experienced creating this site and the steps I took to get past them. 
+Testing information can be found on a seperate <a href="TESTING.md">Testing Readme</a> I've also created a seperate <a href="ISSUES.md">Issues Readme</a> that documents some of the difficuties I experienced creating this site and the steps I took to get past them. 
+
+# Deployment
+
+## Github Pages
+
+The project was deployed to GitHub Pages using the following steps: 
+    
+    1 Log in to GitHub and locate the correct GitHub Repository
+    2 At the top of the Repository, locate the Settings button (settings should be depicted as three small dots).
+    3 Scroll down the Settings page until you get to "GutHub Pages" section. 
+    4 Under "Source", click the drop down called "None" and select "Master".
+    5 Click the "Save", the page will atomatically refresh. 
+    6 Scroll back down to "GitHub Pages" and you will see the now published <a href="https://rvn-r.github.io/milestone-re-tie-dye/">site</a>link. 
+
 
 # Credits 
+
+## Code 
+
+* I used the <a href="https://www.w3schools.com/howto/howto_js_topnav.asp">"How To - Top Navigation"</a> tutorial on w3schools.com as help and insperation for my Navigation Bar on this site. 
+
+* I used the <a href="https://getbootstrap.com/docs/4.5/components/card/">Bootstrap Component Card</a> as a foundation to stylise and present my main content on the Shop Page. 
+
+* I used the <a href="https://getbootstrap.com/docs/4.5/components/collapse/#accordion-example">Bootstrap Component Collapse</a> and the accordian example as a foundation to stylise and present the answer and question section of the FAQ page.
+
+* I used the <a href="https://getbootstrap.com/docs/4.5/components/jumbotron/">Bootstrap Component Jumbotron</a> to stylise and present the "so, how does this work?" section of the Home page.
 
 ## Content
 
@@ -191,11 +216,8 @@ Images used on this website were sourced from two websites <a href="https://unsp
 
 ## Acknowledgements
 
-* I used the <a href="https://www.w3schools.com/howto/howto_js_topnav.asp">"How To - Top Navigation"</a> tutorial on w3schools.com as help and insperation for my Navigation Bar on this site. 
+    * Special thanks to my mentor Brian Macharia
+    * Special thanks to fellow students on Slack for support during complition of MS1
+    * Thanks to the team of tutors at Code Institue for their support. 
 
-* I used the <a href="https://getbootstrap.com/docs/4.5/components/card/">Bootstrap Component Card</a> as a foundation to stylise and present my main content on the Shop Page. 
-
-* I used the <a href="https://getbootstrap.com/docs/4.5/components/collapse/#accordion-example">Bootstrap Component Collapse</a> and the accordian example as a foundation to stylise and present the answer and question section of the FAQ page.
-
-* I used the <a href="https://getbootstrap.com/docs/4.5/components/jumbotron/">Bootstrap Component Jumbotron</a> to stylise and present the "so, how does this work?" section of the Home page.
 
