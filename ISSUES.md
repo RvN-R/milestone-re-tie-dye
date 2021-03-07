@@ -102,7 +102,18 @@ To get past this issue I used a second hero image and slotted it just underneath
 <hr>
 
 <h3>Missing Images</h3>
-After I deployed the site using GitHub Pages (see section Deploy in main README.md) I discovered that the image links failed. 
+
+After I deployed the site using GitHub Pages (see section Deploy in main README.md for more on this process) I discovered that the image links failed. 
+
+<img src="issues-assets/issues-images/imagesdon'tdisplayoncepublished.png">
+<i>src links obviously not working</i>
+
+Although the links worked in preview, it didn't work when I deployed the site. With a bit of experimentation I learned that the first / in the src code was the issue. Once I deleted all the /, added, commited and then pushed the changes the links were fixed. 
+
+<img src="issues-assets/issues-images/imagesdon'tdisplayoncepublishedcodefix.png">
+<i>HTML code that fixed the issue.</i>
+
+
 
 
 
