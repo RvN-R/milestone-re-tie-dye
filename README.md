@@ -157,7 +157,7 @@ The Shop is relativley simple at this stage, but will allow the client to easily
 
 # Testing
 
-Testing information can be found on a seperate <a href="TESTING.md">Testing Readme</a> I've also created a seperate <a href="ISSUES.md">Issues Readme</a> that documents some of the difficuties I experienced creating this site and the steps I took to get past them. 
+Testing information can be found on a seperate <a href="TESTING.md">Testing Readme</a> I've also created a seperate <a href="ISSUES.md">Issues Readme</a> that documents some of the Bugs I experienced creating this site and the steps I took to get past them. 
 
 # Deployment
 
