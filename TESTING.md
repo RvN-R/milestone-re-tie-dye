@@ -150,5 +150,13 @@ In conclusion from looking at all of the Lighthouse Reports more experimentation
 
 ##Further Testing
 
-* Viewed the website on various devices including iPhone 11, iPad Pro, Microsoft Surface and iMac Pro. On extremely large screen sizes the website was off center. To get past this issue I set the body's max width to 2000px and the left and right margin to 0. This centered the website on larger screen sizes. 
-* Sent link of website to family and friends for them to check over the site. It was also reported the background image of the header takes a while to load. Still trying to find the actual reason for this bug. I've experimented compression the image in Photoshop to lower the file size, thus speeding up the load time. This has worked slightly but more experimentaion on file size needs to be completed to improve to the load time. 
+* Viewed the website on various devices including iPhone 11, iPad Pro, Microsoft Surface and iMac Pro.As a result of further testing the site onextremely large screen sizes the website was off center. To get past this issue I set the body's max width to 2000px and the left and right margin to 0. This centered the website on larger screen sizes. 
+
+* Sent link of website to family and friends for them to check over the site. It was also reported the background image of the header takes a while to load.
+
+##Known Bugs
+
+* Although I've taken steps to improve the sites performance on extremely large screens, I am still unhappy with the aesthetic results. I feel that if I had taken into consideration larger screen sizes at the outset of the design process, I would be in a stronger position to improve the aesthetics without negatively affecting smaller screen size performance. 
+
+* Load up time of some of the websites pages (especially those that use a lot of images) could be shorter. More time is needed experimenting with different codecs and file sizes, that don't negatively effect image quality.  
+

@@ -3,7 +3,7 @@
 
 This is the main shop front for the organisation Re-Tie Dye. It is designed to be responsive and accessible on a range of devices, making it easy to navigate and meet the clients key goals. 
 
-Include image of my site from <a href="http://ami.responsivedesign.is/">Responsive Web Design is..</a> below.
+<i style="text-align:center; href="readme-assets/readme-images/Re-Tye-Dye-Responsive-Example.png"></i>>
 
 
 # Client Requirements
@@ -163,6 +163,21 @@ The project was deployed to GitHub Pages using the following steps:
 5.   Click "Save", the page will automatically refresh. 
 6.   Scroll back down to "GitHub Pages" and you will now see the published <a href="https://rvn-r.github.io/milestone-re-tie-dye/">site</a> link. 
 
+## Cloning Repository Using Command Line
+
+1. Log in to GitHub and locate the correct GitHub Repository
+2. Above the list located to the right of the green "Gitpod" button click code
+3. Under Clone you will see three options HTTPS, SSH and GitHub CLI. Choose which option you prefer and then click <i href="readme-assets/readme-images/Past-Icon.png"></i> to copy the URL.
+4. Open Terminal. 
+5. Change teh current working directory to the location where you want the cloned directory. 
+6. Type git clone, and then paste the URL you copied earlier during step 3. 
+7. Press Enter to create your local clone. 
+
+## Cloning Repository To GitHub Desktop
+1. Log in to GitHub and locate the correct GitHub Repository
+2. Above the list located to the right of the green "Gitpod" button click code
+3. Click <i href="readme-assets/readme-images/Open-With-GitHub-Desktop.png"></i> to clone and open the repository with GitHub Desktop. 
+4. Follow the prompts in GitHub Desktop to complete the clone. 
 
 # Credits 
 
