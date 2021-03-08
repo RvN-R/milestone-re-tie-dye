@@ -1,6 +1,6 @@
 <h1 style="text-align: center;">Issues I Faced and How I Overcame Them</h1>
 
-<a href="/workspace/milestone-re-tie-dye/README.md">Main README.md file</a>
+<a href="README.md">Main README.md file</a>
 
 <h3>Bullet Point Issue</h3>
 
