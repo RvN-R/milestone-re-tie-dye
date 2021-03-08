@@ -3,7 +3,7 @@
 
 This is the main shop front for the organisation Re-Tie Dye. It is designed to be responsive and accessible on a range of devices, making it easy to navigate and meet the clients key goals. 
 
-<i style="text-align:center; href="readme-assets/readme-images/Re-Tye-Dye-Responsive-Example.png"></i>>
+<img align= "center" src="readme-assets/readme-images/Re-Tye-Dye-Responsive-Example.png" alt="Example of Site Being Reponsive"></img>
 
 
 # Client Requirements
@@ -167,7 +167,11 @@ The project was deployed to GitHub Pages using the following steps:
 
 1. Log in to GitHub and locate the correct GitHub Repository
 2. Above the list located to the right of the green "Gitpod" button click code
-3. Under Clone you will see three options HTTPS, SSH and GitHub CLI. Choose which option you prefer and then click <i href="readme-assets/readme-images/Past-Icon.png"></i> to copy the URL.
+3. Under Clone you will see three options HTTPS, SSH and GitHub CLI. Choose which option you prefer and then click the copy icon (<i>see image below</i>) next to the URL to copy it.
+
+<p align="center"><img src="readme-assets/readme-images/Past-Icon.png" alt="Image of Copy Icon"></img></p>
+
+
 4. Open Terminal. 
 5. Change teh current working directory to the location where you want the cloned directory. 
 6. Type git clone, and then paste the URL you copied earlier during step 3. 
@@ -176,7 +180,11 @@ The project was deployed to GitHub Pages using the following steps:
 ## Cloning Repository To GitHub Desktop
 1. Log in to GitHub and locate the correct GitHub Repository
 2. Above the list located to the right of the green "Gitpod" button click code
-3. Click <i href="readme-assets/readme-images/Open-With-GitHub-Desktop.png"></i> to clone and open the repository with GitHub Desktop. 
+3. Click "Open with GitHub Desktop" (<i>see image below</i>) to clone and open the repository with GitHub Desktop. 
+
+<p align="center"><img src="readme-assets/readme-images/Open-With-GitHub-Desktop.png" alt="image of Open with GitHub Desktop button"></img></p>
+
+
 4. Follow the prompts in GitHub Desktop to complete the clone. 
 
 # Credits 
