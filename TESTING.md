@@ -125,7 +125,7 @@ In conclusion, from looking at all of the Lighthouse Reports more experimentatio
 * On smaller devices make sure there are no overlay issues that effect the readability of the content.
 * Perform the following manual check: <b><i>Home > Shop > Bid</i></b> When you click the "Bid" call to action button a Modal should appear.
 * With the Modal form open fill out one email address as prompted and click submit, you should get a notification to fill out the remaining information. Perform this exact check with "Confirm Email Address" and "Notify me of future auctions" check box. 
-* Once you've filled out the Modal form click submit, at this stage nothing will appear as we haven't specified an action. 
+* Once you've filled out the Modal form click submit, the forms action is linked to the Code Institute form dump. At present this function isn't opperational, but future versions of the site will utilize this function. 
 * Click on each image, the image should appear in a Modal. Perform the same test on medium and small screen sizes, and make sure the display of the image isn't impaired by differing screen sizes.  
 
 
