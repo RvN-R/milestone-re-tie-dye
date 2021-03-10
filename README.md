@@ -52,7 +52,7 @@ This is the main shop front for the Re-Tie Dye organization. It is designed to b
 
 
   ### Wireframe Mockups - Desktop
-   * <a target= "_blank" href="readme-assets/readme-images/Desktop-Home .png"> Home</a>
+   * <a href="readme-assets/readme-images/Desktop-Home .png"> Home</a>
    * <a href="readme-assets/readme-images/Desktop-AboutUs.png">About</a>
    * <a href="readme-assets/readme-images/Desktop-F.A.Q.png">F.A.Q</a>
    * <a href="readme-assets/readme-images/Desktop-Shop.png">Shop</a>
