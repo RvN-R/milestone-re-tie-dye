@@ -5,7 +5,7 @@
 *{
     margin: 0;
     padding: 0;
-    border: 0;;
+    border: 0;
 }
 
 .container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl {
@@ -357,8 +357,6 @@ text-align: center;
 .list-inline-item:not(:last-child){
     margin-right: 0;
 }
-
-
 
 /* Image Formatting*/
 

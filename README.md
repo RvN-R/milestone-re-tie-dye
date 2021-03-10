@@ -161,6 +161,7 @@ The project was deployed to GitHub Pages using the following steps:
 4.   Under "Source", click the drop down called "None" and select "Master".
 5.   Click "Save", the page will automatically refresh. 
 6.   Scroll back down to "GitHub Pages" and you will now see the published <a href="https://rvn-r.github.io/milestone-re-tie-dye/">site</a> link. 
+7. When you update code add, commit and then push and the amendements you've made will be visable. 
 
 ## Cloning Repository Using Command Line
 
