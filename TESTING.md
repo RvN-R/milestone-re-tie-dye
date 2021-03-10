@@ -152,6 +152,8 @@ In conclusion, from looking at all of the Lighthouse Reports more experimentatio
 
 * Viewed the website on various devices including iPhone 11, iPad Pro, Microsoft Surface and iMac Pro. As a result of further testing it was found that the site was off center when viewed on extremely large screen sizes. To get past this issue I set the body's max width to 2000px and the left and right margin to 0. This centered the website on larger screen sizes. 
 
+* Completed the manual testing steps mentioned above on various browsers, including Safari and Firefox with no issues flagged. 
+
 * Sent link of website to family and friends for them to check over the site. It was also reported the background image of the header takes a while to load.
 
 ## Known Bugs
